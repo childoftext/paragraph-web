@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"main.dart.js": "85ca81db31870161e8d3fe267a3555f0",
+const RESOURCES = {"main.dart.js": "8a4888c9b25f7183265b6ae33bd53ac3",
 "assets/AssetManifest.bin": "75ca25516b38972973d02db09111705a",
 "assets/assets/logos/logo_nobackground_smaller2.png": "53bb719bb28ccf11afdd47fc2b075454",
 "assets/assets/logos/squircle_logo_nobackground.png": "42b68ce3ad77e00d4287d69b1cd95e27",
@@ -16,8 +16,8 @@ const RESOURCES = {"main.dart.js": "85ca81db31870161e8d3fe267a3555f0",
 "assets/fonts/MaterialIcons-Regular.otf": "f346f94d485c6ad9ae64e10769abb582",
 "assets/packages/nowplaying/assets/apple_music.png": "3cd841a0aecd64a9b221d7b9d4448f96",
 "assets/AssetManifest.json": "edf52d8877764d0f22d4d155a5c37aa0",
-"index.html": "9d7dbe6f2ff2334ed3860fceb943b9c7",
-"/": "9d7dbe6f2ff2334ed3860fceb943b9c7",
+"index.html": "66d8de04d28082b3250d5aca893883b2",
+"/": "66d8de04d28082b3250d5aca893883b2",
 "flutter.js": "6fef97aeca90b426343ba6c5c9dc5d4a",
 "canvaskit/skwasm.worker.js": "19659053a277272607529ef87acf9d8a",
 "canvaskit/skwasm.js": "1df4d741f441fa1a4d10530ced463ef8",
