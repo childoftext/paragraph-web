@@ -25290,12 +25290,11 @@ a3Z:function a3Z(a,b){this.a=a
 this.b=b},
 a4_:function a4_(){},
 a41:function a41(){},
-Em:function Em(a,b,c,d,e){var _=this
+Em:function Em(a,b,c,d){var _=this
 _.a=a
 _.b=b
 _.f=c
-_.r=d
-_.Q=e},
+_.Q=d},
 wf:function wf(a,b){this.a=a
 this.b=b},
 akB:function akB(){},
@@ -85904,7 +85903,7 @@ n.toString
 a.a.toString
 k={width:250,height:250}
 j={width:150,height:150,type:l}
-i={boundary:k,customClass:null,enableExif:!0,enableOrientation:!0,enableResize:!0,enableZoom:!0,enforceBoundary:!0,mouseWheelZoom:!0,showZoomer:!0,viewport:j}
+i={boundary:k,customClass:null,enableExif:!0,enableOrientation:!0,enableResize:!1,enableZoom:!0,enforceBoundary:!0,mouseWheelZoom:!0,showZoomer:!0,viewport:j}
 k=new self.Croppie(n,i)
 h=new A.amG(k)
 J.aPt(k,{url:a7})
@@ -87692,7 +87691,7 @@ m===$&&A.b()
 p=A.a([B.i4],t.gH)
 o=q.c
 o.toString
-o=A.a([new A.Jm("Crop",B.m),new A.Em(B.A7,B.A8,!0,!0,o)],t.ID)
+o=A.a([new A.Jm("Crop",B.m),new A.Em(B.A7,B.A8,!0,o)],t.ID)
 s=2
 return A.o($.aMN().m7(null,p,B.Fq,90,B.CA,null,null,m,o),$async$zR)
 case 2:n=b
