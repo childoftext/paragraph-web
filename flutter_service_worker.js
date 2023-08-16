@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"main.dart.js": "4c2676a17e94e29e7a80be3dfddc4223",
+const RESOURCES = {"main.dart.js": "07250f9ed93af97ddbfa253a189d32cb",
 "assets/AssetManifest.bin": "f7296d9e9e7f573e53e4d4d2eb6fe762",
 "assets/assets/logos/logo_nobackground_smaller2.png": "53bb719bb28ccf11afdd47fc2b075454",
 "assets/assets/logos/squircle_logo_nobackground.png": "42b68ce3ad77e00d4287d69b1cd95e27",
@@ -997,8 +997,8 @@ const RESOURCES = {"main.dart.js": "4c2676a17e94e29e7a80be3dfddc4223",
 "assets/packages/icons_plus/assets/flags/jersey.svg": "03b25de01a14d73c62b3580725d1d6bf",
 "assets/packages/nowplaying/assets/apple_music.png": "3cd841a0aecd64a9b221d7b9d4448f96",
 "assets/AssetManifest.json": "ca48790c489f663e01c5bf98df4bd960",
-"index.html": "0ac4b4ef163270e7d5974254f6663237",
-"/": "0ac4b4ef163270e7d5974254f6663237",
+"index.html": "8474a860f0d7fe4f2411a16e26ca0fe7",
+"/": "8474a860f0d7fe4f2411a16e26ca0fe7",
 "firebase-messaging-sw.js": "808302de7b69f73463cbb974fdface8a",
 "flutter.js": "6fef97aeca90b426343ba6c5c9dc5d4a",
 "canvaskit/skwasm.worker.js": "19659053a277272607529ef87acf9d8a",
